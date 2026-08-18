@@ -26,3 +26,27 @@ CMake/cmake-3.5.2
 *.VC.db
 *.cxlovr
 WindowsBinaries/MerikensTripcodeEngine64_NVIDIA.7z
+
+# C# build artifacts
+[Bb]in/
+[Ob]ject/
+[Oo]bj/
+[Tt]emp/
+_ReSharper*/
+*.[Pp]ubxml
+*.csproj.user
+*.user
+*.suo
+*.sln.docstates
+
+# C# build artifacts
+[Bb]in/
+[Ob]ject/
+[Oo]bj/
+[Tt]emp/
+_ReSharper*/
+*.[Pp]ubxml
+*.csproj.user
+*.user
+*.suo
+*.sln.docstates
